@@ -1,6 +1,6 @@
 # Project3_Amazon-fine-foods-reviews
 
-Project part of the module INM432, Big Data, City University, London.
+Project part of the module INM432, Big Data, City University, London. Synthesis of a full report.
 
 # 1. Motivation
 
